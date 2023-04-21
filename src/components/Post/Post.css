@@ -1,0 +1,10 @@
+.post {
+    border: 1px solid lightseagreen;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.post-details {
+    margin: 0 15px;
+}

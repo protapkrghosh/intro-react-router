@@ -1,0 +1,22 @@
+.friend {
+    border: 1px solid lightsalmon;
+    border-radius: 5px;
+}
+
+.show-me {
+    color: #9f52e7;
+    border: 1px solid rgb(157, 81, 228);
+    border-radius: 5px;
+    padding: 10px;
+    transition: .4s;
+}
+
+.show-me:hover {
+    color: #ffffff;
+    background-color: #944bd8;
+    border: 1px solid rgb(84, 43, 122);
+}
+
+.friend .details {
+    margin: 25px 0;
+}
